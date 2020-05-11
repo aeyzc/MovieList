@@ -1,5 +1,5 @@
 {"Eternal Sunshine of The Spotless Mind":9.6,
-"Interstelar":8.7,
+"Interstellar":8.7,
 "Harry Potter":8.0,
 "Meret":10.0,
 "Shutter Island":8.2,
